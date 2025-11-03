@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <div>Root Application</div>
+      <div className="bg-amber-800">Root Application</div>
     </>
   );
 }
